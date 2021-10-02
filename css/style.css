@@ -1,3 +1,18 @@
+/* FONTS */
+
+
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* MY STYLES */
+body{
+    font-family: "matrix";
+}
+
 #miBeti{
     color: white;
     background-color: green;
