@@ -10,11 +10,45 @@
 
 /* MY STYLES */
 body{
-    font-family: "matrix";
+    font-family: "matrix", "Matrix Code NFI";
+}
+
+#wrapper{
+    width: 900px;
+    margin: 0px auto;
+}
+
+#myheader{
+    height: 200px;
+    margin: 0px 10px;
+    padding: 10px;
+    background-color: green;
+}
+
+#nav{
+    height: 30px;
+    margin: 5px 10px;
+    padding: 10px;
+    background-color: grey;
+}
+
+#container{
+    height: 600px;
+    margin: 0px 10px;
+    padding: 10px;
+    background-color: goldenrod;
 }
 
 #miBeti{
     color: white;
     background-color: green;
     font-size: 40px;
+}
+
+#myfooter{
+    height: 150px;
+    margin: 0px 10px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: darksalmon;
 }
